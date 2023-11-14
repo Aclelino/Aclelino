@@ -1,4 +1,4 @@
-### Hi I am Aclelino Damião Florentino 👋
+### Hi i am Aclelino Damião Florentino 👋
 
 - 🔭 I’m currently working on Data Science 
 - 🌱 I’m currently learning Javascript
