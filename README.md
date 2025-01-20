@@ -1,7 +1,7 @@
 ### Hi i am Aclelino Damião Florentino 👋
 
 - 🔭 I’m currently working on Data Science 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning CyberSecurity
 - 📫 How to reach me: aclelino@gmail.com 
 
 
